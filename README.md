@@ -1,2 +1,1 @@
-# quantum-website-physis-project
-541 project
+Quantum futuristic site. Run: npm install && npm run dev\n
